@@ -2,6 +2,9 @@
 
   Live at : https://main--careerark.netlify.app/
 
+  ![CareerArk](https://github.com/user-attachments/assets/fdfb820f-b087-40d7-a106-f100910dbc61)
+
+
 
 **CareerArk** is a comprehensive platform offering a variety of services to assist users in their educational and professional journeys. From personalized career recommendations to advanced AI support, the platform is designed to provide actionable insights and resources for career development.
 
